@@ -1,0 +1,9 @@
+{
+  "jiraUrl": "https://example.atlassian.net",
+  "reposDir": "~/example",
+  "autoAssign": true,
+  "assigneeAccountId": "712020:26a1512d-2b00-4cb7-a908-388c3ac7d123",
+  "boards": [
+    { "id": 59, "name": "Messaging Platform Scrum", "projectKey": "MP" }
+  ]
+}
